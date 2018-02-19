@@ -17,6 +17,16 @@
       "firstName": "Nick",
       "age": 40,
       "companyId": "2"
+    },
+    {
+      "firstName": "Shmaxter",
+      "age": 2,
+      "id": "3ei_mFn",
+      "args": {
+        "id": "3ei_mFn",
+        "firstName": "Shmaxter",
+        "age": 2
+      }
     }
   ],
   "companies": [
